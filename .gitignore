@@ -1,0 +1,62 @@
+# --- Node/React Native/Expo ---
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.expo/
+.expo-shared/web-build/
+.expo-shared/assets.json
+dist/
+build/
+*.log
+
+#Ignore backup history files
+.history/
+
+# Optional: if you ever eject
+android/
+ios/
+
+# --- FastAPI / Python backend ---
+__pycache__/
+*.py[cod]
+*.pkl
+*.db
+*.sqlite3
+*.log
+venv/
+env/
+ENV/
+.venv/
+*.egg-info/
+instance/
+.mypy_cache/
+.pytest_cache/
+.coverage
+coverage/
+htmlcov/
+backend/maya-gpt2/model.safetensors
+backend/maya-gpt2/checkpoint-*/
+
+# --- Environment and config ---
+.env
+.env.local
+.env.*.local
+*.secret
+secrets.json
+config.yaml
+
+# --- OS/System ---
+.DS_Store
+Thumbs.db
+
+# --- IDE/Editor ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Cache ---
+.cache/
+babel-cache/
+metro-cache/
