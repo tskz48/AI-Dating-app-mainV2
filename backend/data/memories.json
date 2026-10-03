@@ -1,0 +1,22 @@
+[
+  {
+    "text": "We both enjoy exploring new cultures together online.",
+    "subject": "user",
+    "type": "fact"
+  },
+  {
+    "text": "Sure! My favorites include grilled chicken wings, hearty sandwiches dipped in Korean BBQ sauce, and roasted peanuts.",
+    "subject": "user",
+    "type": "fact"
+  },
+  {
+    "text": "My favorite food is sushi.",
+    "subject": "user",
+    "type": "fact"
+  },
+  {
+    "text": "User likes sushi and mentions a recent experience with their close friend.",
+    "subject": "user",
+    "type": "interest"
+  }
+]

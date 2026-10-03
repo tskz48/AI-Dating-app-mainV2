@@ -1,0 +1,8 @@
+create TABLE messages(
+
+
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  sender VARCHAR(50) NOT NULL,
+  text TEXT NOT NULL,
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+); 

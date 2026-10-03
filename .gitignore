@@ -35,8 +35,10 @@ instance/
 .coverage
 coverage/
 htmlcov/
-backend/maya-gpt2/model.safetensors
-backend/maya-gpt2/checkpoint-*/
+backend/Models/maya-gpt2/model.safetensors
+backend/Models/maya-gpt2/checkpoint-*/
+backend/Models/mayaV2-gpt2/model.safetensors
+backend/Models/mayaV2-gpt2/checkpoint-*/
 
 # --- Environment and config ---
 .env
